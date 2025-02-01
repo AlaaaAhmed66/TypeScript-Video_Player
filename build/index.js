@@ -241,6 +241,7 @@ class Video {
     }
 }
 Video.count = -1;
+/*************************************************************************************** */
 let video1 = new Video({
     url: "./Tom&Jerry.mp4",
     BgColor: "black",
